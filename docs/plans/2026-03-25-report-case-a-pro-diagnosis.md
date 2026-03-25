@@ -30,7 +30,7 @@ Pro 版 Therapist (herecounseling.com) 完整流程测试，对比 Free 版 Auxo
 
 输入 "Here Counseling" → 输入 URL `https://herecounseling.com` → AI 自动提取 business profile + 生成 Preview Report（约 1 分钟）
 
-![登录页面](https://raw.githubusercontent.com/calderbuild/AuxoraAI/main/docs/screenshots/free-login-page.png)
+![登录页面](../screenshots/free-login-page.png)
 
 ### Step 2: Preview Report（Free 版也能看到的 4 个 Section）
 
@@ -41,7 +41,7 @@ Pro 版 Therapist (herecounseling.com) 完整流程测试，对比 Free 版 Auxo
 | Market Opportunity | 三大驱动力：去污名化(+31%)、压力流行(78%)、供给短缺(60% 县缺治疗师) |
 | Competitor Deep Dive | BetterHelp (18.2M 月访客)、Talkspace (4.8M)、Psychology Today (42.6M) |
 
-![Preview Report 完整报告目录](https://raw.githubusercontent.com/calderbuild/AuxoraAI/main/docs/screenshots/auxora-case-a-report-overview.png)
+![Preview Report 完整报告目录](../screenshots/auxora-case-a-report-overview.png)
 
 ### Step 3: Interview（3 个问题）
 
@@ -63,7 +63,7 @@ Pro 版 Therapist (herecounseling.com) 完整流程测试，对比 Free 版 Auxo
 | Stage | Early Stage | Growth Stage | 改善 |
 | Budget | $200/week | $200/week | 未变（默认值） |
 
-![Review Profile 页面 -- 注意 Website 字段变为 Not specified](https://raw.githubusercontent.com/calderbuild/AuxoraAI/main/docs/screenshots/pro-review-profile.png)
+![Review Profile 页面 -- 注意 Website 字段变为 Not specified](../screenshots/pro-review-profile.png)
 
 **关键 Bug**：Interview 后 website URL 被清空为 "Not specified"。
 
@@ -81,23 +81,23 @@ Pro 版 Therapist (herecounseling.com) 完整流程测试，对比 Free 版 Auxo
 | 10 | A/B Testing Framework | ~45s | 测试框架 |
 | 11 | Next Steps & Resources | ~30s | 行动清单 |
 
-![ICP 客户细分](https://raw.githubusercontent.com/calderbuild/AuxoraAI/main/docs/screenshots/auxora-case-a-icp-section.png)
+![ICP 客户细分](../screenshots/auxora-case-a-icp-section.png)
 
-![SEO 关键词表](https://raw.githubusercontent.com/calderbuild/AuxoraAI/main/docs/screenshots/auxora-case-a-seo-section.png)
+![SEO 关键词表](../screenshots/auxora-case-a-seo-section.png)
 
-![6 个月路线图](https://raw.githubusercontent.com/calderbuild/AuxoraAI/main/docs/screenshots/auxora-case-a-roadmap-section.png)
+![6 个月路线图](../screenshots/auxora-case-a-roadmap-section.png)
 
 ### Step 6: Pipeline 自动推进到 Product Manager
 
 报告完成后自动进入 Product Manager：从 Brand DNA 导入了 8 个产品/服务项，可编辑名称、价格、描述、图片。有 "Build Landing Page" 按钮和 Shopify 连接。
 
-![Product Manager 页面](https://raw.githubusercontent.com/calderbuild/AuxoraAI/main/docs/screenshots/auxora-case-a-product-manager.png)
+![Product Manager 页面](../screenshots/auxora-case-a-product-manager.png)
 
 ### Step 7: Brand DNA（Pro 独有功能）
 
 自动从网站提取品牌信息：Logo、配色（18 色）、字体、Tagline ("Transform emotional pain into relief")、Brand Values、Tone of Voice、Target Audience、Key Messages、网站截图、团队照片。
 
-![Brand DNA 提取结果](https://raw.githubusercontent.com/calderbuild/AuxoraAI/main/docs/screenshots/pro-brand-dna.png)
+![Brand DNA 提取结果](../screenshots/pro-brand-dna.png)
 
 ---
 
@@ -213,10 +213,10 @@ Pro 版 Therapist (herecounseling.com) 完整流程测试，对比 Free 版 Auxo
 
 之前在同一个项目里用文字描述测试了 3 个行业，聊天建议质量远高于 GTM Report 的数据部分：
 
-![聊天模式 -- Therapist 建议](https://raw.githubusercontent.com/calderbuild/AuxoraAI/main/docs/screenshots/chat-therapist-response.png)
+![聊天模式 -- Therapist 建议](../screenshots/chat-therapist-response.png)
 
-![聊天模式 -- Pest Control 建议](https://raw.githubusercontent.com/calderbuild/AuxoraAI/main/docs/screenshots/chat-pestcontrol-response.png)
+![聊天模式 -- Pest Control 建议](../screenshots/chat-pestcontrol-response.png)
 
-![聊天模式 -- Freelance Consultant 建议](https://raw.githubusercontent.com/calderbuild/AuxoraAI/main/docs/screenshots/chat-consultant-response.png)
+![聊天模式 -- Freelance Consultant 建议](../screenshots/chat-consultant-response.png)
 
-![Free 版 Auxora 自分析报告（对比用）](https://raw.githubusercontent.com/calderbuild/AuxoraAI/main/docs/screenshots/free-auxora-report-preview.png)
+![Free 版 Auxora 自分析报告（对比用）](../screenshots/free-auxora-report-preview.png)

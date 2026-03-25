@@ -1,0 +1,4 @@
+[    1345ms] [WARNING] [notifications] Stream disconnected, retrying in 5s: TypeError: network error @ https://staging.auxora.ai/assets/index-CJtF5MXE.js:67
+[    2707ms] [ERROR] Failed to load resource: the server responded with a status of 404 () @ https://app.auxora.ai/favicon.ico:0
+[    2710ms] [ERROR] Failed to load resource: the server responded with a status of 401 () @ https://app.auxora.ai/api/auth/refresh:0
+[    2989ms] [ERROR] Failed to load resource: the server responded with a status of 404 () @ https://app.auxora.ai/static/demo-poster.jpg:0

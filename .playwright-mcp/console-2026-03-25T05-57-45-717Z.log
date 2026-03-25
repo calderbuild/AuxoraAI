@@ -1,0 +1,24 @@
+[     310ms] [WARNING] [notifications] Stream disconnected, retrying in 5s: TypeError: network error @ https://staging.auxora.ai/assets/index-CJtF5MXE.js:67
+[  212721ms] [WARNING] An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing. @ about:srcdoc:0
+[  353724ms] [WARNING] An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing. @ about:srcdoc:0
+[  436682ms] [WARNING] An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing. @ about:srcdoc:0
+[  628843ms] [ERROR] Failed to load resource: the server responded with a status of 422 () @ https://staging.auxora.ai/api/projects/87ed96d5-de15-4a0c-93d6-774a667f3892/sessions/54dbdbdd-3531-466c-bb03-08871e9f9ae8/messages:0
+[  681997ms] [WARNING] An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing. @ about:srcdoc:0
+[  929039ms] [ERROR] Failed to load resource: the server responded with a status of 401 () @ https://staging.auxora.ai/api/projects/87ed96d5-de15-4a0c-93d6-774a667f3892:0
+[  929039ms] [ERROR] Failed to load resource: the server responded with a status of 401 () @ https://staging.auxora.ai/api/projects/87ed96d5-de15-4a0c-93d6-774a667f3892/artifacts:0
+[  929039ms] [ERROR] Failed to load resource: the server responded with a status of 401 () @ https://staging.auxora.ai/api/projects/87ed96d5-de15-4a0c-93d6-774a667f3892/landing-prep:0
+[  929303ms] [ERROR] Failed to load resource: the server responded with a status of 401 () @ https://staging.auxora.ai/api/projects/87ed96d5-de15-4a0c-93d6-774a667f3892/artifacts:0
+[  929303ms] [ERROR] Failed to load resource: the server responded with a status of 401 () @ https://staging.auxora.ai/api/projects/87ed96d5-de15-4a0c-93d6-774a667f3892:0
+[  929304ms] [ERROR] Failed to load resource: the server responded with a status of 401 () @ https://staging.auxora.ai/api/projects/87ed96d5-de15-4a0c-93d6-774a667f3892/landing-prep:0
+[  929595ms] [ERROR] Failed to load resource: the server responded with a status of 401 () @ https://staging.auxora.ai/api/auth/refresh:0
+[  929595ms] [ERROR] Failed to load resource: the server responded with a status of 401 () @ https://staging.auxora.ai/api/auth/refresh:0
+[  929595ms] [ERROR] Dashboard Error: Failed to load dashboard data for project 87ed96d5-de15-4a0c-93d6-774a667f3892 Error: Failed to fetch project
+    at Tr (https://staging.auxora.ai/assets/index-CJtF5MXE.js:62:4887)
+    at async Promise.all (index 0)
+    at async https://staging.auxora.ai/assets/index-CJtF5MXE.js:287:17156 @ https://staging.auxora.ai/assets/index-CJtF5MXE.js:286
+[  929595ms] [ERROR] Failed to load landing prep state: Error: Invalid or expired token
+    at ev (https://staging.auxora.ai/assets/index-CJtF5MXE.js:62:5075)
+    at async Promise.all (index 2) @ https://staging.auxora.ai/assets/index-CJtF5MXE.js:286
+[  929596ms] [ERROR] Failed to load resource: the server responded with a status of 401 () @ https://staging.auxora.ai/api/auth/refresh:0
+[  929596ms] [ERROR] API Error: GET /api/projects/87ed96d5-de15-4a0c-93d6-774a667f3892/artifacts failed (401 ): {"detail":"Invalid or expired token"} @ https://staging.auxora.ai/assets/index-CJtF5MXE.js:286
+[  929954ms] [WARNING] [notifications] Stream disconnected, retrying in 5s: TypeError: network error @ https://staging.auxora.ai/assets/index-CJtF5MXE.js:67

@@ -48,7 +48,7 @@ audience: Hui Li (CEO), 全团队
 
 ## 2. Hero 区诊断
 
-![首页全貌（桌面端）](../screenshots/auxora-homepage-full.png)
+![首页全貌（桌面端）](https://raw.githubusercontent.com/calderbuild/AuxoraAI/main/docs/screenshots/auxora-homepage-full.png)
 
 ### 2.1 5 秒测试
 
@@ -181,7 +181,7 @@ Launch ($49)       -> 注册 + 支付 + 48hr 交付 -> /signup?plan=launch
 
 ### 5.1 登录页
 
-![登录页](../screenshots/auxora-login-page.png)
+![登录页](https://raw.githubusercontent.com/calderbuild/AuxoraAI/main/docs/screenshots/auxora-login-page.png)
 
 - 视觉质量高：深色左栏 + 浅色右栏双栏布局，有产品截图和 testimonial
 - 左栏证言与首页 Sarah K. 相同但描述不同（登录页写 "Co-founder, B2B SaaS"，首页写 "Skincare founder, solo business"）-- **人设不一致，降低可信度**
@@ -190,7 +190,7 @@ Launch ($49)       -> 注册 + 支付 + 48hr 交付 -> /signup?plan=launch
 
 ### 5.2 注册页
 
-![注册页](../screenshots/auxora-signup-page.png)
+![注册页](https://raw.githubusercontent.com/calderbuild/AuxoraAI/main/docs/screenshots/auxora-signup-page.png)
 
 - 3 个字段（Name / Email / Password），摩擦度合理
 - 左栏列出 "What you get"（4 项 checklist），转化说服元素到位
@@ -213,9 +213,9 @@ Launch ($49)       -> 注册 + 支付 + 48hr 交付 -> /signup?plan=launch
 
 ## 6. 移动端诊断
 
-![移动端 Hero 区（390px）](../screenshots/auxora-mobile-hero.png)
+![移动端 Hero 区（390px）](https://raw.githubusercontent.com/calderbuild/AuxoraAI/main/docs/screenshots/auxora-mobile-hero.png)
 
-![移动端定价区（390px）](../screenshots/auxora-mobile-pricing.png)
+![移动端定价区（390px）](https://raw.githubusercontent.com/calderbuild/AuxoraAI/main/docs/screenshots/auxora-mobile-pricing.png)
 
 ### 6.1 整体评价
 
@@ -342,7 +342,7 @@ Launch 后有一定流量时，建议按此顺序测试：
 
 ### Staging Dashboard 额外发现
 
-![Staging Dashboard](../screenshots/staging-dashboard.png)
+![Staging Dashboard](https://raw.githubusercontent.com/calderbuild/AuxoraAI/main/docs/screenshots/staging-dashboard.png)
 
 Staging 有登录态，可以看到产品内部。Dashboard 显示 4 个测试项目：
 - Karen Lum Consulting（klumconsulting.com）
